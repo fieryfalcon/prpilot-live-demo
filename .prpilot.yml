@@ -1,4 +1,4 @@
 review:
-  enabled: false
-  mode: standard
+  enabled: true
+  mode: strict
   base_branches: [main, master]
